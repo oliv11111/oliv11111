@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-OLiver Uansing, a computer science graduate with an insatiable passion for Python and a flair for various programming languages. Currently on an exciting journey in DevOps Engineering through AICore, I'm committed to expanding my skills and knowledge.
+Oliver Unasing, a computer science graduate with an insatiable passion for Python and a flair for various programming languages. Currently on an exciting journey in DevOps Engineering through AICore, I'm committed to expanding my skills and knowledge.
 
 ## 💻 Tech Interests
 
