@@ -2,27 +2,31 @@
 
 ## 👋 About Me
 
-Oliver Unasing, a computer science graduate with an insatiable passion for Python and a flair for various programming languages. Currently on an exciting journey in DevOps Engineering through AICore, I'm committed to expanding my skills and knowledge.
+A recent graduate of BSc Computer Science, from the University of Nottingham, I am pleased you have found my GitHub and hope you enjoy viewing some of the projects I have had the pleasure of working on.
+
+Having had exposure to a wide variety of different concepts and areas in the world of computer science, as I move further into my career I have found a real passion for data analytics and leveraging data to provide valuable and previously inaccessible insights into business and help drive a more data-focused decision-making culture.
 
 ## 💻 Tech Interests
 
-My heart beats for data analysis, machine learning, and Python wizardry. I'm fascinated by their power to turn raw data into groundbreaking insights, driving innovation across diverse applications.
+Having always had an interest in technology I am fascinated in the ever changing world. From consumer tech such as the newest phone or tablet to large scale technology system news, such as the rise of AI in the form of LLMs - (see my attempt at creating a much smaller scale NLP/NLG chat bot in my repos).
+
+I am a big welcomer of the use of AI tools such as ChatGPT, and believe that this technology will not replace us (especially in the software and data field, as often feared), but when used correctly enable us to reach even greater heights.
+
+## 📜 Languages
+
+Profficent: Python, SQL, R
+
+University/Strong Expereince: JAVA, C, Haskall, JAVASCRIPT, PHP, Terraform
+
+Other Proficiencies: PowerBI, Power Automate, Excel, Kubernetes, Docker, Azure Cloud Servies
+
 
 ## 🚀 Highlights
 
-### University Highlights
 
-- **BJSS Sponsored Project** Achieved the best presentation prize for the second-year Group Project module. Our team, sponsored by BJSS, creating a motion-tracking dance game using Python. I not only leveled up technically but also mastered the agile project management method in collaboration with BJSS.
 
-- **ML:** Achieved over 80% accuracy on my ML model for the Machine Learning module. We built the entire ML pipeline for a tumor predictor, a thrilling project with real-world impact.
-
-- **Data & Golf Fusion:** Blended passion and coursework by dissecting golf tour data from the last 5 years during my data analysis adventure.
-
-## 🌐 Explore My Work
-
-Feel free to dive into my GitHub repository to witness the code magic: [GitHub - oliv11111](https://github.com/oliv11111)
 
 ## 🏌️‍♂️ Beyond Code
 
-Apart from my coding, I'm a sports fanatic, with a special love for golf, football, and cricket.
+Beyond code and technology I am crazy about sports. Having played football and rugby primarily growing up as well as cricket at university and now playing golf every weekend theres nothing I enjoy more about being competetive, social and active outdoors.
 
