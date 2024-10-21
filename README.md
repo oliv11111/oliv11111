@@ -22,9 +22,11 @@ Other Proficiencies: PowerBI, Power Automate, Excel, Kubernetes, Docker, Azure C
 
 
 ## 🚀 Highlights
+- Telco Data Analysis
 
+- PGA Tour Data Analysis
 
-
+- General Knowledge Chat Bot
 
 ## 🏌️‍♂️ Beyond Code
 
