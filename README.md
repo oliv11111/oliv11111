@@ -24,6 +24,8 @@ Other Proficiencies: PowerBI, Power Automate, Excel, SQLite3, Kubernetes, Docker
 ## 🚀 Highlights
 - Telco Data Analysis
 
+- SQLite3 Insurance Project
+
 - PGA Tour Data Analysis
 
 - General Knowledge Chat Bot
