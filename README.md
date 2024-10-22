@@ -18,7 +18,7 @@ Profficent: Python, SQL, R
 
 University/Strong Expereince: JAVA, C, Haskall, JAVASCRIPT, PHP, Terraform
 
-Other Proficiencies: PowerBI, Power Automate, Excel, Kubernetes, Docker, Azure Cloud Servies
+Other Proficiencies: PowerBI, Power Automate, Excel, SQLite3, Kubernetes, Docker, Azure Cloud Servies
 
 
 ## 🚀 Highlights
